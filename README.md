@@ -3,7 +3,7 @@
 
 - 🔭 Hoje trabalho com redes de computadores
 - 🌱 Estudando programação (C), Redes, Devops, Segurança.
-- 🎒 Para conseguir aprender um contudo novo, projeto uma dias da semana para estudar e adquirindo cursos, lendo livros e artigos entendo o conceito e formas de fazer, por fim crio um pequeno projeto para aplicar o que consegui aprender.
+- 🎒 Para conseguir aprender um conteúdo novo, projeto uns dias da semana para estudar e adquirindo cursos, lendo livros e artigos entendo o conceito e formas de fazer, por fim crio um pequeno projeto para aplicar o que consegui aprender.
 
 
 <div>
